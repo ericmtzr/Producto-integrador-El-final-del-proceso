@@ -1,6 +1,6 @@
-Producto integrador. El final del proceso
+# Producto integrador. El final del proceso
 
-Menú que contiene: 
+## Menú que contiene: 
 
 a) Actividades realizadas en el curso 
 
@@ -15,3 +15,12 @@ d) Reporte de las modificaciones realizadas
 ![MENU 3](./img/menu3.png)
 ![MENU 4](./img/menu4.png)
 ![MENU 5](./img/menu5.png)
+
+
+## Project setup
+
+```
+npm install
+
+yarn start
+```
