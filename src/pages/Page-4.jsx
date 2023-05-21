@@ -8,7 +8,7 @@ const Page4 = props => {
             <h2>Reporte de las modificaciones realizadas</h2>
             <p>Se adjuntan los reportes de actividades de los dos proyectos trabajados, así como un pequeño visor en linea.</p>
             <h3>Download Proyecto 1</h3>
-            <td><a href='./proyecto1.pdf' download>Click para descargar el reporte de actividades 1</a></td>
+            <td><a href="https://github.com/ericmtzr/Producto-integrador-El-final-del-proceso/raw/main/src/pages/proyecto1.pdf" download>Click para descargar el reporte de actividades 1</a></td>
             <br/>
             <embed
                 src={PDF1 + "#toolbar=0"}
@@ -18,7 +18,7 @@ const Page4 = props => {
                     scale={10}
             />
             <h3>Download Proyecto 2</h3>
-            <td><a href='./proyecto2.pdf' download>Click para descargar el reporte de actividades 2</a></td>
+            <td><a href="https://github.com/ericmtzr/Producto-integrador-El-final-del-proceso/raw/main/src/pages/proyecto2.pdf" download>Click para descargar el reporte de actividades 2</a></td>
             <br/>
             <embed
                 src={PDF2 + "#toolbar=0"}
